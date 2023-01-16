@@ -4,7 +4,7 @@
 
  <img src="https://new.ivypha.com/static/uploads/2023/1/16//bdc20527f121e7e92672c9c0507cb60b.gif"/>
 
-### 在线预览 https://new.ivypha.com/static/uploads/2023/1/16//bdc20527f121e7e92672c9c0507cb60b.gif
+### 在线预览图片 https://new.ivypha.com/static/uploads/2023/1/16//bdc20527f121e7e92672c9c0507cb60b.gif
 ## 开始使用
 ### 1.在页面A引入Hero组件和Overlay组件
       
