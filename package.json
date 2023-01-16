@@ -1,9 +1,14 @@
 {
   "id": "ak1118-hero",
-  "displayName": "ak1118-hero",
+  "displayName": "Hero",
   "version": "1.0.0",
-  "description": "ak1118-hero",
-  "keywords": [""],
+  "description": "Hero,让页面切换更自然。",
+  "keywords": [
+    "页面切换动画",
+    "Hero",
+    "动画",
+    "Route"
+],
   "repository": "",
   "engines": {
     "HBuilderX": "^3.1.0"
@@ -22,9 +27,9 @@
       "qq": ""
     },
     "declaration": {
-      "ads": "",
-      "data": "",
-      "permissions": ""
+      "ads": "无",
+      "data": "无",
+      "permissions": "无"
     },
     "npmurl": ""
   },
@@ -33,13 +38,13 @@
     "encrypt": [],
     "platforms": {
       "cloud": {
-        "tcb": "u",
-        "aliyun": "u"
+        "tcb": "y",
+        "aliyun": "y"
       },
       "client": {
         "Vue": {
-          "vue2": "u",
-          "vue3": "u"
+          "vue2": "y",
+          "vue3": "n"
         },
         "App": {
           "app-vue": "u",
@@ -52,10 +57,10 @@
           "QQ浏览器(Android)": "u"
         },
         "H5-pc": {
-          "Chrome": "u",
+          "Chrome": "y",
           "IE": "u",
-          "Edge": "u",
-          "Firefox": "u",
+          "Edge": "y",
+          "Firefox": "y",
           "Safari": "u"
         },
         "小程序": {
