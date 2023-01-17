@@ -6,12 +6,9 @@ import AnimationState from "../js/AnimationState.js";
 import RectTween from "../js/RectTween.js";
 import Hero from "../js/Hero.js";
 import ViewCanvas from "../js/ViewCanvas.js";
-import Curves from "./Curves.js";
+import Curves from "../js/Curves.js";
+import HeroConfig from "../js/HeroConfig.js";
 
-class HeroConfig {
-	static curve = Curves.easeIn;
-	static duration=500;
-}
 
 class HeroManager {
 	heroList = [];

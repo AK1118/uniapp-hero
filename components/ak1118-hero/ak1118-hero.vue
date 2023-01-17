@@ -11,7 +11,6 @@
 	import Hero from "./js/Hero.js";
 	const heroManager = HeroManager.getInstance();
 	let isExis = -1;
-	heroManager.setDuration(500);
 	export default {
 		components: {
 
