@@ -3,11 +3,25 @@
 </template>
 
 <script>
+	import HeroManager from "./js/index.js";
+	const heroManager = HeroManager.getInstance();
 	export default{
 		props:{
 			test:{
 				type:Boolean,
 				default:false,
+				ces:null,
+			}
+		},
+		mounted() {
+			
+		},
+		methods:{
+			/*需要用户在onShow内调用该函数*/
+			display(){
+				if(heroManager.canvasMountedCallback!=null){
+					heroManager.canvasMountedCallback();
+				}
 			}
 		},
 		data(){

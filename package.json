@@ -9,7 +9,7 @@
     "动画",
     "Route"
 ],
-  "repository": "",
+  "repository": "https://github.com/AK1118/uniapp-hero",
   "engines": {
     "HBuilderX": "^3.1.0"
   },
